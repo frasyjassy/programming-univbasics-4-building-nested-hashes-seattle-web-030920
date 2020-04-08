@@ -2,7 +2,7 @@ require 'yaml'
 
 RSpec.configure do |config|
 
-  def 5_levels
+  def __LINE__
     # raise "replace underscore with code"
   end
 
