@@ -73,7 +73,7 @@ new_hash = {
           :mortgage_value => 400
         },
         :shortlines_railroad => {
-          
+          :mortgage_value => 800
         }
       }
     }
